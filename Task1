@@ -5,6 +5,6 @@
     <title>とうふ</title>
   </head>
   <body>
-    テスト
+    <strong style="color blue">全部青い</strong>
   </body>
 </html>
